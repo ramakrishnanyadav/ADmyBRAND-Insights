@@ -126,6 +126,12 @@ To run this project locally, follow these steps:
     yarn dev
     ```
     This will launch the dashboard at `http://localhost:3000` (or your configured port).
+    ---
+
+## AI Usage Report
+
+For a detailed breakdown of the AI tools used, sample prompts, and my AI vs. manual work split, please refer to the dedicated AI Report:
+[**View AI Usage Report**](https://github.com/ramakrishnanyadav/ADmyBRAND-Insights/blob/main/AI_REPORT.md).
 
 ## 🤝 Contributing
 
